@@ -36,3 +36,6 @@ build/
 
 # Logs
 *.log
+
+# H2 database files - do not upload
+data/
